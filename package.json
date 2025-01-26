@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npm run open",
+    "open": "concurrently \"http-server -a localhost -p 3000 -o\" \"open http://localhost:3000/build\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "http-server": "^14.1.1",
+    "sleep-ms": "^2.0.1"
+  }
+}
