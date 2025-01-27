@@ -1,5 +1,5 @@
 import card from "../modules/recent_card.js";
-// import data_json from "../DATA/general";
+// import data_json from "../DATA/general.json";
  
 // console.log(data_json['smart_tags'][0])
 

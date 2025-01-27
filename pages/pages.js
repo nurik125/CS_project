@@ -42,12 +42,12 @@ const signIn_page = `
 const content_page = `
     <header>
         <div>
-            <img src="./assets/light/profile.svg" alt="profile">
+            <img class="icons" src="./assets/light/profile.svg" alt="profile">
             <h3>Recent To-dos</h3>
         </div>
         <section>
-            <img src="./assets/light/notification.svg" alt="notification">
-            <img src="./assets/light/settings.svg" alt="settings">
+            <img class="icons" src="./assets/light/notification.svg" alt="notification">
+            <img class="icons" src="./assets/light/settings.svg" alt="settings">
         </section>
     </header>
     <main>
