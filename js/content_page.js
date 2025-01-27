@@ -1,6 +1,7 @@
 import card from "../modules/recent_card.js";
-
-// document.querySelector("main")
+// import data_json from "../DATA/general";
+ 
+// console.log(data_json['smart_tags'][0])
 
 export function card_create(num=6){
     // * Prompt creation
